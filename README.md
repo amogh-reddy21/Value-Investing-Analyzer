@@ -1,4 +1,4 @@
-# VI Analyzer — DCF Valuation & Fundamental Screening Platform
+# Value Investing Analyzer — DCF Valuation & Fundamental Screening Platform
 
 Bloomberg Terminal access runs ~$25K/year. This replicates its core DCF and fundamental
 screening workflow for individual investors and students — using entirely free, open-source
